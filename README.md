@@ -17,7 +17,7 @@ Repository ini berisi implementasi berbagai algoritma pencarian dalam **Python**
 ## 🚀 Cara Menjalankan di Google Colab  
 1. **Clone repository ini ke Google Colab atau komputer lokal**:  
 
-
+## Search Algoritmh
 Repository ini berisi implementasi berbagai algoritma pencarian yang digunakan dalam pencarian jalur pada graf dan pohon. Algoritma yang disertakan adalah:
 
 - **Depth-First Search (DFS)**
