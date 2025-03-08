@@ -1,6 +1,5 @@
 # Praktikum Search Algorithm (Search Algorithm)
-**Nama : Zaki Muhamad**
-**Nim : 2306094**
+**Zaki Muhamad ( 2306094 )**
 
 ## 🔎 Deskripsi  
 Repository ini berisi implementasi berbagai algoritma pencarian dalam **Python**, meliputi:  
