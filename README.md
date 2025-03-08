@@ -17,7 +17,7 @@ Repository ini berisi implementasi berbagai algoritma pencarian dalam **Python**
 ## 🚀 Cara Menjalankan di Google Colab  
 1. **Clone repository ini ke Google Colab atau komputer lokal**:  
 
----
+--
 ## Penjelasan Singkat
 ## 1. Depth-First Search (DFS)
 DFS adalah algoritma pencarian yang menelusuri cabang **sedalam mungkin** sebelum kembali.
