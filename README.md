@@ -1,4 +1,4 @@
-# Algoritma Pencarian Graf dan Pohon
+# Praktikum Search Algorithm (Uninformed Search)
 
 Repository ini berisi implementasi berbagai algoritma pencarian yang digunakan dalam pencarian jalur pada graf dan pohon. Algoritma yang disertakan adalah:
 
@@ -6,7 +6,7 @@ Repository ini berisi implementasi berbagai algoritma pencarian yang digunakan d
 - **Breadth-First Search (BFS)**
 - **Uniform Cost Search (UCS)**
 - **Greedy Best-First Search**
-- **A* (A-Star) Search (Tree & Graph)**
+- **A * (A-Star) Search (Tree & Graph)**
 
 ## 1. Depth-First Search (DFS)
 ### Deskripsi
