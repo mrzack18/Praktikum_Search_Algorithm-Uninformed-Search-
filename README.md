@@ -17,15 +17,7 @@ Repository ini berisi implementasi berbagai algoritma pencarian dalam **Python**
 ## 🚀 Cara Menjalankan di Google Colab  
 1. **Clone repository ini ke Google Colab atau komputer lokal**:  
 
-## Search Algoritmh
-Repository ini berisi implementasi berbagai algoritma pencarian yang digunakan dalam pencarian jalur pada graf dan pohon. Algoritma yang disertakan adalah:
-
-- **Depth-First Search (DFS)**
-- **Breadth-First Search (BFS)**
-- **Uniform Cost Search (UCS)**
-- **Greedy Best-First Search**
-- **A * (A-Star) Search (Tree & Graph)**
-
+##Penjelasan Singkat
 ## 1. Depth-First Search (DFS)
 DFS adalah algoritma pencarian yang menelusuri cabang **sedalam mungkin** sebelum kembali.
 
@@ -109,14 +101,5 @@ A* adalah algoritma pencarian jalur yang menggabungkan **biaya sebenarnya (g(n))
 | **UCS** | Menggunakan biaya aktual tanpa heuristik | Menemukan jalur optimal | Bisa lebih lambat dibandingkan A* |
 | **Greedy Best-First** | Memilih berdasarkan nilai heuristik | Cepat dalam kasus tertentu | Tidak selalu menemukan jalur optimal |
 | **A*** | Menggunakan biaya jalur + heuristik | Optimal & efisien | Perlu heuristik yang baik |
-
----
-
-## Cara Menggunakan
-
-1. Pastikan Anda memiliki **Jupyter Notebook** dan Python terinstal.
-2. Buka salah satu notebook yang ingin dijalankan, misalnya `bfs.ipynb`.
-3. Jalankan sel kode secara berurutan untuk melihat bagaimana algoritma bekerja.
-4. Ubah parameter graf atau pohon untuk menguji berbagai skenario.
 
 ---
