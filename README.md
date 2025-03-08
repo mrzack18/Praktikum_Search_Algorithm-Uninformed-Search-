@@ -9,7 +9,6 @@ Repository ini berisi implementasi berbagai algoritma pencarian yang digunakan d
 - **A * (A-Star) Search (Tree & Graph)**
 
 ## 1. Depth-First Search (DFS)
-### Deskripsi
 DFS adalah algoritma pencarian yang menelusuri cabang **sedalam mungkin** sebelum kembali.
 
 ### Fitur
@@ -25,7 +24,6 @@ DFS adalah algoritma pencarian yang menelusuri cabang **sedalam mungkin** sebelu
 ---
 
 ## 2. Breadth-First Search (BFS)
-### Deskripsi
 BFS adalah algoritma pencarian yang bekerja dengan menjelajahi **seluruh level** sebelum berpindah ke level berikutnya.
 
 ### Fitur
@@ -40,7 +38,6 @@ BFS adalah algoritma pencarian yang bekerja dengan menjelajahi **seluruh level**
 ---
 
 ## 3. Uniform Cost Search (UCS)
-### Deskripsi
 UCS mencari jalur dengan biaya total paling kecil tanpa menggunakan heuristik.
 
 ### Fitur
@@ -55,7 +52,6 @@ UCS mencari jalur dengan biaya total paling kecil tanpa menggunakan heuristik.
 ---
 
 ## 4. Greedy Best-First Search
-### Deskripsi
 Greedy Best-First Search memilih **node dengan nilai heuristik terkecil** tanpa mempertimbangkan biaya jalur sebelumnya.
 
 ### Fitur
@@ -70,7 +66,6 @@ Greedy Best-First Search memilih **node dengan nilai heuristik terkecil** tanpa 
 ---
 
 ## 5. A* (A-Star) Search (Tree & Graph)
-### Deskripsi
 A* adalah algoritma pencarian jalur yang menggabungkan **biaya sebenarnya (g(n))** dan **heuristik (h(n))** untuk memperkirakan biaya tersisa ke tujuan. Algoritma ini menggunakan fungsi evaluasi:
 
 \[ f(n) = g(n) + h(n) \]
